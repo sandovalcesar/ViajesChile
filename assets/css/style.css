@@ -1,0 +1,164 @@
+body * {
+    text-align: center;
+    color: #000f08;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.t1 p {
+    margin-left: 10px;
+    margin-bottom: -1px;
+    color: white;
+}
+
+.img-viajes .t1 {
+    display:block;
+}
+
+.navbar-nav {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.somos {
+    background-color: black;
+}
+
+.destacados {
+    background-color: black;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+
+.parr {
+    display: block;
+    text-align: left;
+    margin: 0 1em;
+}
+
+.fa-car {
+    color: white;
+    background-color:#1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+}
+
+.fa-anchor {
+    color: white;
+    background-color:#1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+}
+
+.fa-plane {
+    color: white;
+    background-color:#1798c1;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-size: 150%;
+    margin: 0 auto;
+    margin-right: 10px;
+}
+
+.text {
+    color: white!important;
+    text-align: left;
+}
+
+.card {
+    margin-right: 10px;
+    background-color: #1798c1;
+}
+
+.card:last-of-type {
+    margin-right: 0;
+}
+
+h1 {
+    color: white!important;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+hr {
+    color: #1798c1!important;
+    background-color: #1798c1!important;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+
+h2 {
+    color: white!important;
+    text-align: center;
+    font-size:2.5em!important;
+    vertical-align: middle;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+h3 {
+    color: white!important;
+    text-align: center;
+    font-size:2.5em!important;
+    vertical-align: middle;
+    padding-top: 30px;
+}
+
+h4 {
+    color: white!important;
+    font-size: 1.5em;
+}
+
+.container {
+    max-width:100%;
+    width: 100%;
+}
+
+.cardcl{
+    background-color: #1798c1;
+    color: white;
+}
+
+.fa-2x {
+    margin: 0 0.3em;
+    color: white!important;
+}
+
+.boxEmail{
+    color: white;
+    text-align: left!important;
+}
+
+.someclass {
+    width: 1080px!important;
+    padding-left: 1px!important;
+    margin-left: 80px;
+}
+
+.someclass2 {
+    padding-left: 1px!important;
+    padding-right: 1px!important;
+    margin-left: 80px;
+    width: 1080px!important;
+}
+.someclass3 {
+    margin-top: 4px!important;
+
+}
