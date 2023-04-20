@@ -9,7 +9,7 @@ body * {
 .t1 p {
     margin-left: 10px;
     margin-bottom: -1px;
-    color: white;
+    color: #ffffff;
 }
 
 .img-viajes .t1 {
@@ -160,5 +160,4 @@ h4 {
 }
 .someclass3 {
     margin-top: 4px!important;
-
 }
