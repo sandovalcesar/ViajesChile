@@ -2,11 +2,11 @@ $(function () {
     $('[data-toggle="tooltip"]').tooltip();
 
     $('#quienesomos').click(function(){
-        alert("Viaje con nosotros")
+        alert("Viaje")
     });
 
     $('#destacados').click(function(){
-        alert("Viaje por Chile")
+        alert("Viaje")
     });
 
     $('#contactos').click(function(){
@@ -40,10 +40,3 @@ $(function () {
         $('.texto4').toggle();
     })
 })
-
-
-$("#quienesomos").hover(function() {
-    $(this).css('cursor','pointer').attr('title', 'Los mejores viajes estan junto a nosotros');
-}, function() {
-    $(this).css('cursor','auto');
-});
